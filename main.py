@@ -1,3 +1,9 @@
+##############################
+A RYU component to detect and act on flow anomaly based on packet and traffic conditions
+Based on SimpleSwitch and TrafficMonitor Classes
+By Navid Baradaran @ 21 Jan 2016
+navid@baradaran.net
+##############################
 from operator import attrgetter
 from ryu.app import simple_switch_13
 from ryu.controller import ofp_event
